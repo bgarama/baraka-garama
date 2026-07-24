@@ -1,5 +1,13 @@
-## Professional Achievements
+# Professional Achievements
 
-A detailed record of engineering accomplishments, technical learning, lab activities, and telecom projects.
+This document records technical achievements, engineering challenges, learning milestones, and project contributions throughout my career as a Connectivity & Network Engineer.
 
-📄 [View Achievements](ACHIEVEMENTS.md)
+The focus is on:
+
+- Telecom Engineering
+- VoIP Platforms
+- IMS & SIP Technologies
+- Network Troubleshooting
+- Laboratory Validation
+- Infrastructure Automation
+- Continuous Learning
