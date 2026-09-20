@@ -1,34 +1,69 @@
-# Dual Homing Validation for SIP Application Servers
+# Nokia Projects
 
-## Overview
+## Role
 
-This project demonstrates the validation of a Dual Homing architecture involving:
+IMS Test & Validation Engineer
 
-- Session Border Controller (SBC)
-- Two SIP Application Servers
-- IMS/Core Network
+---
 
-The objective was to validate service continuity, centralized routing decisions, and successful call processing.
+## Project Overview
 
-## Key Results
+Supported IMS and VoLTE validation activities within telecom laboratory environments.
 
-- Successful incoming call handling
-- Successful outgoing call handling
-- Secondary node selection
-- Centralized SBC-based routing
-- Consistent server configuration
+---
+
+## Detailed Activities
+
+### IMS Testing
+
+- Registration testing
+- Service validation
+- Feature verification
+- Interoperability testing
+
+### VoLTE Validation
+
+- Mobile originated calls
+- Mobile terminated calls
+- Service continuity testing
+- Supplementary service validation
+
+### SIP Analysis
+
+- SIP trace analysis
+- Failure investigation
+- Call flow validation
+- Root cause analysis
+
+### NTAS Testing
+
+- Feature testing
+- Regression testing
+- Integration testing
+- Acceptance support
+
+### Laboratory Activities
+
+- IMS
+- NTAS
+- Metaswitch
+- PSTN
+- PRA
+- FAX
+- ITZ
+
+---
 
 ## Technologies
 
-- SIP
-- IMS
-- Asterisk
-- SBC
-- Provisioning Orchestrator
-- Dual Homing
-- VoIP Routing
+IMS • VoLTE • SIP • NTAS • Wireshark • Linux
 
+---
 
+## Skills Demonstrated
 
-
-- Identified and validated the dependency between SIP signaling, SBC routing logic, and service orchestration/provisioning features required to enable Dual Homing behavior.
+- Telecom Testing
+- SIP Troubleshooting
+- Root Cause Analysis
+- Validation Engineering
+- Acceptance Testing
