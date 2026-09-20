@@ -4,187 +4,137 @@
 
 IMS & VoLTE Testing • SIP • Asterisk PBX • Routing & Switching • Linux • Cloud • AI-Assisted Engineering
 
-Milan, Italy
+📍 Milan, Italy
 
 ---
 
 ## Professional Profile
 
-Telecommunications and Connectivity Engineer with experience 3 years supporting large-scale telecom and enterprise network environments through projects delivered for Nokia and Vodafone while working at Capgemini Engineering.
+Telecommunications and Connectivity Engineer with experience supporting telecom and enterprise network projects delivered through Capgemini Engineering.
 
-Experienced in IMS and VoLTE validation, SIP signalling analysis, Asterisk PBX deployment, routing and switching operations, Linux administration, network troubleshooting, and technical documentation.
+Experience includes:
 
-This repository serves as a professional engineering portfolio documenting technical projects, practical implementations, laboratory activities, and continuous learning across telecommunications, networking, cloud infrastructure, and modern engineering practices.
+- IMS & VoLTE Testing
+- SIP Signalling Analysis
+- Asterisk PBX Deployment
+- Routing & Switching
+- VLAN Migration
+- FortiGate Firewall Migration
+- Linux Administration
+- Web Development
+- AI-Assisted Engineering
 
 ---
 
-## Professional Experience Highlights
+# Featured Experience
 
-### Nokia Project
+## Nokia Project
+**IMS Test & Validation Engineer**
 
-Role: IMS Test & Validation Engineer
+### Highlights
 
-Key Activities
+- IMS Core validation
+- VoLTE testing
+- SIP trace analysis
+- NTAS testing
+- Acceptance testing
+- Root cause analysis
 
-- IMS Core service validation
-- VoLTE testing and verification
-- SIP signalling analysis
-- NTAS testing and troubleshooting
-- Acceptance and integration testing
-- Root cause investigation
-- Technical documentation and reporting
+📄 **View Detailed Activities**
 
-### Vodafone Project
+./projects/telecom/nokia-project.md
 
-Role: Routing & Switching Engineer
+---
 
-Key Activities
+## Vodafone Project
+**Routing & Switching Engineer**
+
+### Highlights
 
 - Network connectivity validation
-- Routing and switching operations
-- Incident investigation and troubleshooting
-- Infrastructure verification
-- Vlan Migration
-- Change implementation support
-- Service validation activities
+- Routing & switching operations
+- VLAN migration
+- Cisco to FortiGate migration
+- Infrastructure modernization
+- Network troubleshooting
+
+📄 **View Detailed Activities**
+
+./projects/networking/vodafone-project.md
 
 ---
 
-## Featured Engineering Project
+## Asterisk PBX Engineering
 
-### Asterisk PBX - Call Routing Stability & SIP Contact Management
+### Highlights
 
-Project focused on diagnosing and resolving SIP contact management issues affecting VoIP call delivery.
+- SIP trunk deployment
+- Dialplan development
+- Extension management
+- VoIP troubleshooting
+- Call routing optimization
 
-Achievements
+📄 **View Detailed Activities**
 
-- Investigated SIP registration and routing inconsistencies
-- Implemented deterministic SIP routing improvements
-- Performed CLI and protocol-level validation
-- Developed reusable health-check automation scripts
-- Improved routing reliability and troubleshooting efficiency
-
-🔗 Project Documentation:
-
-./projects/featured-projects/asterisk-call-routing-stability
+./projects/voip/asterisk-pbx.md
 
 ---
 
-## Technical Domains
+## George Allen School Website
 
-### Telecommunications & VoIP
+### Highlights
 
-Activities documented include:
+- Website design
+- Development
+- Deployment
+- Maintenance
 
-- IMS Fundamentals
-- VoLTE Services
-- SIP Signalling
-- SIP Testing & Validation
-- SIPp Traffic Simulation
-- Asterisk PBX Deployment
-- Call Routing Design
-- VoIP Troubleshooting
-- Network Service Validation
+📄 **View Detailed Activities**
 
-### Enterprise Networking
-
-Activities documented include:
-
-- Routing & Switching
-- VLAN Design and Migration
-- VRF Configuration
-- ACL Implementation
-- Infrastructure Validation
-- Change Management
-- Enterprise Firewall Operations
-- SSH Administration
-- Incident Troubleshooting
-- Network Monitoring
-
-### Linux & Systems Administration
-
-Activities documented include:
-
-- Linux Administration
-- WSL Environments
-- Secure Remote Access
-- Automation Scripts
-- System Troubleshooting
-- Infrastructure Management
-
-### Infrastructure & Cloud
-
-Activities documented include:
-
-- Google Workspace Administration
-- DNS Management
-- MX and DKIM Configuration
-- Website Hosting Infrastructure
-- GitHub Pages Deployment
-- Cloud Fundamentals
-- Infrastructure Services
-
-### Web Development
-
-Projects include:
-
-- George Allen School silala Website
-- Baha Madzo Gadze Charity Website
-- Environmental & Community Outreach Platforms
-
-Technologies
-
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Next.js
-- Git & GitHub
+./projects/web-development/george-allen-school.md
 
 ---
 
-## Engineering Principles
+## BMG Charity Platform
 
-- Security First
-- Reliability by Design
-- Documentation Driven Engineering
-- Automation Mindset
-- Continuous Improvement
-- Knowledge Sharing
-- Ethical Engineering
+### Highlights
 
----
+- Non-profit website development
+- Community outreach support
+- Environmental awareness platform
 
-## Current Development Focus
+📄 **View Detailed Activities**
 
-Currently expanding expertise in:
-
-- Advanced IMS & Core Networks
-- AZURE cloud
-- AWS Cloud Services
-- Network Automation
-- Infrastructure Engineering
-- AI-Assisted Operations
-- VoIP Platform Design
+./projects/web-development/bmg-charity.md
 
 ---
 
-## Repository Purpose
+## Technical Skills
 
-This repository provides documented evidence of practical engineering work, technical problem solving, infrastructure projects, telecommunications activities, and continuous professional development.
+### Telecom
 
-The objective is to demonstrate engineering methodology, troubleshooting capability, documentation standards, and real-world implementation experience.
+IMS • VoLTE • SIP • NTAS • SBC
+
+### VoIP
+
+Asterisk PBX • SIP Trunks • Dialplans • IVR
+
+### Networking
+
+Routing • Switching • VLANs • TCP/IP • FortiGate
+
+### Systems
+
+Linux • SSH • WSL
+
+### Development
+
+HTML • CSS • JavaScript • TypeScript • Next.js
+
+### AI
+
+Microsoft Copilot • ChatGPT • AI-Assisted Troubleshooting
 
 ---
 
-## Professional Philosophy
-
-> Learn continuously.
->
-> Build responsibly.
->
-> Solve systematically.
->
-> Document thoroughly.
->
-> Improve every day.
+> Learn continuously. Build responsibly. Solve systematically.
