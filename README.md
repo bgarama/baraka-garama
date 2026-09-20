@@ -10,7 +10,7 @@ Milan, Italy
 
 ## Professional Profile
 
-Telecommunications and Connectivity Engineer with experience supporting large-scale telecom and enterprise network environments through projects delivered for Nokia and Vodafone while working at Capgemini Engineering.
+Telecommunications and Connectivity Engineer with experience 3 years supporting large-scale telecom and enterprise network environments through projects delivered for Nokia and Vodafone while working at Capgemini Engineering.
 
 Experienced in IMS and VoLTE validation, SIP signalling analysis, Asterisk PBX deployment, routing and switching operations, Linux administration, network troubleshooting, and technical documentation.
 
@@ -44,7 +44,7 @@ Key Activities
 - Routing and switching operations
 - Incident investigation and troubleshooting
 - Infrastructure verification
-- Migration
+- Vlan Migration
 - Change implementation support
 - Service validation activities
 
