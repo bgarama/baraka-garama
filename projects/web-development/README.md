@@ -24,7 +24,7 @@ Educational website developed to improve digital accessibility, communication, a
 
  Detailed Project
 
-[View project](./george-allen-school.md/)
+[View project](./george-allen-school-digital-platform.md/)
 
 ---
 
@@ -59,7 +59,7 @@ Environmental awareness platform promoting sustainability and community particip
 
  Detailed Project
 
-./zero-plastic-football-fiesta.md
+[View project](./zero-plastic-football-fiesta.md/)
 
 ---
 
