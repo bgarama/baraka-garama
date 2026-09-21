@@ -19,7 +19,7 @@ Activities included:
 
 📄 Detailed Activities
 
-(./projects/telecommunications-validation-project/)
+[View project](./projects/telecommunications-validation-project/)
 
 ## Engineering Automation
 
@@ -44,4 +44,4 @@ Technologies:
 - Prompt Engineering
 - Workflow Automation
 
-🔗 ./projects/telecom-network-intelligence-agent/)
+🔗 [View Project](./projects/telecom-network-intelligence-agent/)
