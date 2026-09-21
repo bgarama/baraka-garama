@@ -6,23 +6,18 @@ IMS & VoLTE Testing • SIP • Asterisk PBX • Routing & Switching • Linux �
 
 📍 Milan, Italy
 
----
 
 ## Portfolio Navigation
 
 [Telecommunications Engineering](./projects/telecommunications-engineering/)
+Validation of SIP-based voice services, SBC upgrades, resiliency architectures, client readiness, and release qualification activities.
  
 [Network Engineering](./projects/network-engineering/)
 Enterprise networking activities involving infrastructure modernization, VLAN migration, firewall migration, connectivity validation, security hardening, and operational readiness assessments.
 
 # Web Development & Digital Platform Delivery
-[View Project](./projects/web-development/)
-## ./projects/web-development/README.md
+[Web Development](./projects/web-development/)
 Educational, environmental, and community-focused digital platforms delivered in Kenya.
 
-## [View Project](./pnetwork-engineering/)
-
-Enterprise networking activities involving infrastructure modernization, VLAN migration, firewall migration, connectivity validation, security hardening, and operational readiness assessments.
-
-[View Project](./telecom-network-intelligence-agent/)
+[Automation](./telecom-network-intelligence-agent/)
 
