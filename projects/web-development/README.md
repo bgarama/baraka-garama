@@ -1,4 +1,4 @@
-# Web Development Projects
+# Web Development & Digital Platform Delivery
 
 ## Overview
 
@@ -28,7 +28,7 @@ Educational website developed to improve digital accessibility, communication, a
 
 ---
 
-### BMG Charity Platform
+### Baha Madzo Gadze Platform
 
 Community-focused website supporting environmental awareness, social initiatives, and public engagement activities.
 
