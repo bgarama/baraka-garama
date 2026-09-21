@@ -24,7 +24,7 @@ Educational website developed to improve digital accessibility, communication, a
 
 📄 Detailed Project
 
-./george-allen-school.md
+(./george-allen-school.md/)
 
 ---
 
