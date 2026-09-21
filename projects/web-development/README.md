@@ -41,8 +41,7 @@ Community-focused website supporting environmental awareness, social initiatives
 - Digital Presence Enhancement
 
  Detailed Project
-
-./bmg-charity.md
+[View project](./baha-madzo-gadze-community-platform.md/)
 
 ---
 
