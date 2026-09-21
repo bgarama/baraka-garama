@@ -19,4 +19,29 @@ Activities included:
 
 📄 Detailed Activities
 
-./projects/telecommunications-validation-project
+(./projects/telecommunications-validation-project/)
+
+## Engineering Automation
+
+### Telecom Network Intelligence Agent
+
+An AI-powered automation workflow built using n8n and OpenAI to support continuous learning and telecom intelligence gathering.
+
+Capabilities:
+
+- Telecom news monitoring
+- IMS & SIP intelligence gathering
+- SBC and VoIP trend tracking
+- Security advisory monitoring
+- Automated report summarization
+- Email-based intelligence delivery
+
+Technologies:
+
+- n8n
+- OpenAI
+- Gmail
+- Prompt Engineering
+- Workflow Automation
+
+🔗 ./projects/telecom-network-intelligence-agent/)
