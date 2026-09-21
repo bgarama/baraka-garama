@@ -12,7 +12,8 @@ IMS & VoLTE Testing • SIP • Asterisk PBX • Routing & Switching • Linux �
 # Telecommunications Engineering
 [Telecommunications Engineering](./projects/telecommunications-engineering/)
 Validation of SIP-based voice services, SBC upgrades, resiliency architectures, client readiness, and release qualification activities.
- 
+
+## Enterprise Network Modernization & Security Migration
 [Network Engineering](./projects/network-engineering/)
 Enterprise networking activities involving infrastructure modernization, VLAN migration, firewall migration, connectivity validation, security hardening, and operational readiness assessments.
 
