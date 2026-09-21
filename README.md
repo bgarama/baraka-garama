@@ -22,7 +22,7 @@ Enterprise networking activities involving infrastructure modernization, VLAN mi
 Educational, environmental, and community-focused digital platforms delivered in Kenya.
 
 ## Engineering Automation
-#Telecom Network Intelligence Agent
+# Telecom Network Intelligence Agent
 [telecom-network-intelligence-agent](./projects/telecommunications-engineering/telecom-network-intelligence-agent/)
 An AI-powered automation workflow built using n8n and OpenAI to support continuous learning and telecom intelligence gathering.
 
