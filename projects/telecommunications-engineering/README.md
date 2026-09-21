@@ -1,68 +1,22 @@
-# telecommunications-validation-project
-## Role
+## Telecommunications Validation Project
 
+Role:
 IMS Test & Validation Engineer
 
----
+Supported validation activities across IMS, VoIP, SIP, SBC, Metaswitch and mobile client environments.
 
-## Project Overview
+Activities included:
 
-Supported IMS and VoLTE validation activities within telecom laboratory environments.
+- SBC software upgrade validation
+- Asterisk VoIP validation
+- SIP interoperability testing
+- Dual-Homing validation
+- Geo-Redundancy testing
+- Mobile client readiness testing
+- Metaswitch service validation
+- Non-Regression Testing (NRT)
+- Release qualification activities
 
----
+📄 Detailed Activities
 
-## Detailed Activities
-
-### IMS Testing
-
-- Registration testing
-- Service validation
-- Feature verification
-- Interoperability testing
-
-### VoLTE Validation
-
-- Mobile originated calls
-- Mobile terminated calls
-- Service continuity testing
-- Supplementary service validation
-
-### SIP Analysis
-
-- SIP trace analysis
-- Failure investigation
-- Call flow validation
-- Root cause analysis
-
-### NTAS Testing
-
-- Feature testing
-- Regression testing
-- Integration testing
-- Acceptance support
-
-### Laboratory Activities
-
-- IMS
-- NTAS
-- Metaswitch
-- PSTN
-- PRA
-- FAX
-- ITZ
-
----
-
-## Technologies
-
-IMS • VoLTE • SIP • NTAS • Wireshark • Linux
-
----
-
-## Skills Demonstrated
-
-- Telecom Testing
-- SIP Troubleshooting
-- Root Cause Analysis
-- Validation Engineering
-- Acceptance Testing
+./projects/telecommunications-validation-project
