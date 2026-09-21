@@ -19,7 +19,7 @@ Activities included:
 
 📄 Detailed Activities
 
-[View project](./projects/telecommunications-validation-project/)
+[View project](./projects/telecommunications-engineering/)
 
 ## Engineering Automation
 
