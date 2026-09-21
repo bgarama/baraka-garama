@@ -1,78 +1,30 @@
-# Enterprise Connectivity & Migration Project
+## Enterprise Network Modernization & Security Migration
 
-## Role
+### Role
 
 Routing & Switching Engineer
 
 ---
 
-## Project Overview
+### Overview
 
-Supported enterprise network operations and infrastructure modernization activities involving routing, switching, firewall migration, and VLAN migration initiatives.
-
----
-
-## Detailed Activities
-
-### Network Connectivity Validation
-
-- Connectivity verification
-- Reachability testing
-- Service validation
-- Routing path analysis
-
-### Routing & Switching Operations
-
-- Switch verification
-- Routing troubleshooting
-- Interface validation
-- Service restoration support
-
-### VLAN Migration
-
-#### Objective
-
-Migrate services from legacy infrastructure to modernized network environments while maintaining operational continuity.
-
-#### Activities
-
-- VLAN assessment and verification
-- Migration planning support
-- Configuration validation
-- Migration execution support
-- Post-migration testing
-
-#### Validation
-
-- End-to-end connectivity testing
-- Gateway verification
-- Application validation
-- User access testing
-
-### Cisco to FortiGate Migration
-
-#### Objective
-
-Support migration of security services from Cisco firewall platforms to FortiGate infrastructure.
-
-#### Activities
-
-- Firewall rule review
-- Policy validation
-- Connectivity testing
-- Migration support
-- Security verification
-
-#### Post-Migration Verification
-
-- Route validation
-- NAT verification
-- Access-control validation
-- Service reachability testing
+Supported network modernization initiatives involving enterprise infrastructure migration, VLAN transition activities, firewall platform migration, network security improvements, and service continuity validation.
 
 ---
 
-## Technologies
+### Key Contributions
+
+- Supported migration of services from legacy network infrastructure to modernized environments.
+- Participated in VLAN migration and network segmentation validation activities.
+- Contributed to migration of security services from Cisco-based platforms to FortiGate firewalls.
+- Performed connectivity verification, routing validation, and post-implementation service testing.
+- Led network hardening activities through identification and remediation of insecure management services.
+- Conducted port verification, Telnet remediation, and secure-access validation activities.
+- Supported change implementation, troubleshooting, and operational readiness assessments.
+
+---
+
+### Core Technologies
 
 - Routing & Switching
 - VLANs
@@ -80,23 +32,22 @@ Support migration of security services from Cisco firewall platforms to FortiGat
 - FortiGate
 - TCP/IP
 - Enterprise Networking
+- Network Security
 
 ---
 
-## Skills Demonstrated
+### Skills Demonstrated
 
-- Infrastructure Migration
+- Infrastructure Modernization
+- Firewall Migration
+- VLAN Migration
+- Network Security Hardening
+- Connectivity Validation
+- Troubleshooting
 - Change Management
-- Network Troubleshooting
-- Service Validation
-- Risk Mitigation
-- Technical Documentation
+- Service Assurance
 
----
+📄 Detailed Activities
 
-## Lessons Learned
-
-- Migration success depends on validation and preparation.
-- Documentation reduces implementation risk.
-- Service verification is critical after network changes.
-- Communication between teams is essential during cutovers.
+- Network Modernization & Firewall Migration
+- Network Security Hardening & Port Remediation
