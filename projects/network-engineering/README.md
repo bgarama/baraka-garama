@@ -1,4 +1,4 @@
-# Vodafone Project
+# Enterprise Connectivity & Migration Project
 
 ## Role
 
