@@ -1,4 +1,4 @@
-# George Allen School Digital Platform
+# George Allen School Digital Platform (Kenya)
 
 ## Overview
 
