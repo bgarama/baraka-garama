@@ -19,5 +19,5 @@ Enterprise networking activities involving infrastructure modernization, VLAN mi
 [Web Development](./projects/web-development/)
 Educational, environmental, and community-focused digital platforms delivered in Kenya.
 
-[Automation telecom-network-intelligence-agent](./projects/telecommunications-engineering/telecom-network-intelligence-agent/)
+[Automation telecom-network-intelligence-agent](./telecommunications-engineering/telecom-network-intelligence-agent/)
 
