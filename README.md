@@ -10,19 +10,12 @@ IMS & VoLTE Testing • SIP • Asterisk PBX • Routing & Switching • Linux �
 
 # Portfolio Navigation
 
-## Telecommunications Validation Project
-
-Telecommunications validation, SIP interoperability, VoIP engineering, resiliency testing, release qualification, and service assurance activities.
-
-📄 [Explorets/telecommunications-validation-project/README.md
-
+## [Telecommunications Engineering](./projects/telecommunications-enginetion, SIP interoperability, SBC software validation, Asterisk PBX testing, resiliency validation, service assurance, and release qualification activities.
 ---
 
-## Enterprise Network Modernization & Security Migration
+## ./projects/network-engineering/
 
-Enterprise networking activities involving infrastructure modernization, VLAN migration, firewall migration, connectivity validation, and security hardening.
-
-📄 ./projects/enterprise-network-modernization-security-migration/README.md
+Enterprise networking activities involving infrastructure modernization, VLAN migration, firewall migration, connectivity validation, security hardening, and operational readiness assessments.
 
 ---
 
