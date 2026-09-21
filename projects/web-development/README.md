@@ -22,9 +22,9 @@ Educational website developed to improve digital accessibility, communication, a
 - Content Management
 - Deployment Support
 
-📄 Detailed Project
+ Detailed Project
 
-(./george-allen-school.md/)
+[View project](./george-allen-school.md/)
 
 ---
 
@@ -40,7 +40,7 @@ Community-focused website supporting environmental awareness, social initiatives
 - Responsive Design
 - Digital Presence Enhancement
 
-📄 Detailed Project
+ Detailed Project
 
 ./bmg-charity.md
 
@@ -58,7 +58,7 @@ Environmental awareness platform promoting sustainability and community particip
 - Web Development
 - Digital Communication
 
-📄 Detailed Project
+ Detailed Project
 
 ./zero-plastic-football-fiesta.md
 
