@@ -1,57 +1,101 @@
-# George Allen School Website
+# George Allen School Digital Platform
 
 ## Overview
 
-Designed and developed a website for George Allen School to improve digital presence, accessibility of information, and communication with students, parents, and the community.
+Designed and developed the official website for George Allen School in Kilifi County, Kenya.
+
+The platform was created to improve the school's digital presence, provide access to key institutional information, and strengthen engagement between the school, parents, students, partners, and the wider community.
+
+The website serves as a centralized platform for presenting the school's vision, programs, activities, and contact information while supporting accessibility across multiple devices.
 
 ---
 
 ## Objective
 
-Provide a modern and accessible online platform that presents key information about the school and supports digital engagement.
+Provide a professional and accessible online presence that supports communication, visibility, and community engagement.
 
----
+Key objectives included:
 
-## Technologies
-
-- HTML
-- CSS
-- JavaScript
-- GitHub
+- Improve digital visibility
+- Increase accessibility of school information
+- Support parent and community engagement
+- Create a professional online presence
+- Enable future digital growth
 
 ---
 
 ## My Responsibilities
 
-- Requirements gathering
-- Website design
-- Front-end development
+- Website design and development
+- User interface implementation
 - Content organization
+- Responsive design implementation
 - Testing and validation
 - Deployment support
-- Ongoing improvements
+- DNS and domain configuration
+- Website maintenance
 
 ---
 
-## Challenges
+## Platform Features
 
-- Creating an intuitive user experience
-- Ensuring accessibility across devices
-- Organizing educational content effectively
+### Institutional Information
+
+- School profile presentation
+- Mission and vision communication
+- Community-focused messaging
+
+### Community Engagement
+
+- Public information access
+- Contact channels
+- Partner visibility
+- School-community interaction
+
+### Accessibility
+
+- Mobile-friendly layouts
+- Responsive design
+- Structured navigation
+- User-focused design
 
 ---
 
-## Solution
+## Infrastructure & Delivery
 
-Developed a responsive website with structured navigation and mobile-friendly layouts to improve accessibility and usability.
+### Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+### Hosting & DNS
+
+- Cloudflare
+- Domain Management
+- DNS Configuration
+- SSL Management
+
+### Development Practices
+
+- Responsive Design
+- User Experience Design
+- Website Optimization
+- Content Accessibility
 
 ---
 
 ## Outcome
 
+The project delivered a professional and accessible digital platform supporting the school's educational mission and community outreach efforts.
+
+Benefits included:
+
 - Improved online visibility
-- Enhanced access to school information
-- Provided a professional digital presence
+- Better accessibility of school information
+- Increased community engagement
+- Enhanced professional presence
+- Foundation for future digital initiatives
 
 ---
 
@@ -59,20 +103,18 @@ Developed a responsive website with structured navigation and mobile-friendly la
 
 - Web Development
 - Front-End Development
-- Problem Solving
-- Project Delivery
+- Responsive Design
+- DNS Management
+- Domain Administration
+- Website Deployment
 - User Experience Design
+- Technical Problem Solving
 
 ---
 
 ## Lessons Learned
 
-- Stakeholder communication is critical.
-- User-focused design improves adoption.
-- Simplicity often provides the best user experience.
-
----
-
-## Repository
-
-github.com/bgarama/georgeallenschool
+- Educational platforms must prioritize accessibility and clarity.
+- Community-focused websites benefit from simple and intuitive navigation.
+- Responsive design is critical for mobile-first audiences.
+- Effective content organization improves information accessibility.
