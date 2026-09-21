@@ -23,7 +23,6 @@ Educational website developed to improve digital accessibility, communication, a
 - Deployment Support
 
  Detailed Project
-
 [View project](./george-allen-school-digital-platform.md/)
 
 ---
@@ -58,7 +57,6 @@ Environmental awareness platform promoting sustainability and community particip
 - Digital Communication
 
  Detailed Project
-
 [View project](./zero-plastic-football-fiesta.md/)
 
 ---
