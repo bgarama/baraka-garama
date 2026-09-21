@@ -10,7 +10,8 @@ Validated software upgrades for Session Border Controllers (SBCs).
 
 Configured Asterisk PBX environments and simulated subscriber endpoints using Zoiper softphones.
 
-📄 ./asterisk-pbx-voip-user-validation.md
+ [View Detailed-voip-user-validation.md
+``
 
 ---
 
