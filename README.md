@@ -7,9 +7,9 @@ IMS & VoLTE Testing • SIP • Asterisk PBX • Routing & Switching • Linux �
 📍 Milan, Italy
 
 
-## Portfolio Navigation
+# Portfolio Navigation
 
-# Telecommunications Engineering
+## Telecommunications Engineering
 [Telecommunications Engineering](./projects/telecommunications-engineering/)
 Validation of SIP-based voice services, SBC upgrades, resiliency architectures, client readiness, and release qualification activities.
 
