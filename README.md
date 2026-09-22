@@ -17,12 +17,12 @@ Validation of SIP-based voice services, SBC upgrades, resiliency architectures, 
 [Network Engineering](./projects/network-engineering/)
 Enterprise networking activities involving infrastructure modernization, VLAN migration, firewall migration, connectivity validation, security hardening, and operational readiness assessments.
 
-# Web Development & Digital Platform Delivery
+## Web Development & Digital Platform Delivery
 [Web Development](./projects/web-development/)
 Educational, environmental, and community-focused digital platforms delivered in Kenya.
 
-## Engineering Automation
-# Telecom Network Intelligence Agent
+# Engineering Automation
+## Telecom Network Intelligence Agent
 [telecom-network-intelligence-agent](./projects/telecommunications-engineering/telecom-network-intelligence-agent.md/)
 An AI-powered automation workflow built using n8n and OpenAI to support continuous learning and telecom intelligence gathering.
 
